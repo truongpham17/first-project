@@ -36,7 +36,7 @@
                 </c:forEach>
 
             </tbody>
+            hello
         </table>
-MainController?action=Update&id=${dto.id}
     </body>
 </html>
